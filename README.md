@@ -15,7 +15,11 @@ $pip2 install mechanize
 
 $git clone https://github.com/Devils007/Fb-Hack
 
+ls
+
 $cd Fb-Hack
+
+ls
 
 $python2 Eror-Sourov.py
 
