@@ -1,4 +1,7 @@
-# Eror
+# Eror-Sourov
+# Tools Installation
+# Command
+
 $pkg update
 
 $pkg upgrade
