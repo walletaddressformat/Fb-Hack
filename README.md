@@ -1,4 +1,4 @@
-# Eror-Sourov
+
 # Tools Installation
 # Command
 
@@ -24,8 +24,8 @@ $cd Fb-Hack
 
 ls
 
-$python2 Eror-Sourov.py
+$python2 Eror-Sourov.
 
-Inbox Me Tools:User Name
+User Name
 
-Inbox Me Tools:Password
+
